@@ -91,7 +91,8 @@ var newimg = $(this).attr('data-image');
 $(this).parent().find('img').attr("src", newimg);
 });
 });
-
+</script>
+    
    <div class="box">
 <div class="mainmenu">
 <img src="food.png">
