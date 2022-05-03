@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Site
 
 You can use the [editor on GitHub](https://github.com/choletz/TESTwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Check out our services 
+[Link] (https://www.linkedin.com/in/colin-holetz-366267112/)
+
+
 ## Header 2
 ### Header 3
 
