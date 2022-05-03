@@ -75,11 +75,6 @@ transition: all ease 0.5s;
  }
 }
    </style>
-</script>
- <type="text/javascript">
-  window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=document.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://cdn.heapanalytics.com/js/heap-"+e+".js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a);for(var n=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],o=0;o<p.length;o++)heap[p[o]]=n(p[o])};
-  heap.load("2418432873");
-</script>
 </head>
 <body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -92,7 +87,6 @@ $(this).parent().find('img').attr("src", newimg);
 });
 });
 </script>
-    
    <div class="box">
 <div class="mainmenu">
 <img src="food.png">
@@ -114,6 +108,3 @@ $(this).parent().find('img').attr("src", newimg);
 </div>
 </body>
 </html>
-
-
- 
