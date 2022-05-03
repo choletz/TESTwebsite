@@ -12,7 +12,7 @@
 <img src="img_la.jpg" alt="LA" style="width:100%">
 
 <div class="w3-container w3-black">
-<h1>This is a Heading</h1>
+<h1>Hello</h1>
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
 </div>
