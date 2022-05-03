@@ -60,7 +60,7 @@ transition: all ease 0.5s;
            font-size: 16px;
        }
      form, input[type="button"] {
-       animation: glowing 300ms infinite;
+      ;
        font-weight: 500%;
       }
       @keyframes glowing {
