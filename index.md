@@ -40,8 +40,9 @@ Although you can use them, for a more unique website, replace these images with 
 
 	
 <body>
-	
-	
+	    <div data-heap-redact-text='true'>Kevin Tran</div
+
+	  
 	<div data-heap-redact-attributes='data-ssn,data-phone'>
     <div>
 	div class="container"> 
