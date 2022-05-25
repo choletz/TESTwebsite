@@ -40,16 +40,6 @@ Although you can use them, for a more unique website, replace these images with 
 
 	
 <body>
-	<div data-heap-redact-text='true'>Kevin Tran</div>
-
-	  
-	<div data-heap-redact-attributes='data-ssn,data-phone'>
-    <div>
-	div class="container"> 
-   <p id="field1" data-ssn="551325553"> Kevin Tran </p> 
-   <p id="field2" data-phone="5109403992"> 5109403992 </p>
-  </div>
-</div>	
 	
 
     <!-- Navigation -->
