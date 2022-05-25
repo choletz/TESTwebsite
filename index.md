@@ -44,6 +44,10 @@ Although you can use them, for a more unique website, replace these images with 
 		span.ingredient {
     color: #f00;
 }
+.services {
+      color: orange;
+   }		
+		
 </style>
 	
 <script type="text/javascript">
@@ -201,7 +205,7 @@ Although you can use them, for a more unique website, replace these images with 
   <h2>This is a heading with a <span style="color:blue">blue</span>span text</h2>
 
 <p this is a orange <span
-		id=spanunique class="serives" >help</span>		
+		id=spanunique class="serives" >help</span> </p>		
 		
   <p style="color:red;">This is a red paragraph.</p>
 </div>
