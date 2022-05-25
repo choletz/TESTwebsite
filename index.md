@@ -191,9 +191,10 @@ Although you can use them, for a more unique website, replace these images with 
     
 	
 	<!-- Heap Cert -->
-	<div class="myDiv">
-  <h2>This is a heading in a div element</h2>
-  <p>This is some text in a div element.</p>
+	<div class="myDiv container">
+  <h2>This is a heading with a <span style="color:blue">blue</span>span text</h2>
+
+  <p style="color:red;">This is a red paragraph.</p>
 </div>
 	
 	
