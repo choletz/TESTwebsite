@@ -9,7 +9,10 @@ Although you can use them, for a more unique website, replace these images with 
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="w
+				   
+				   
+				 th=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <title>Business 2</title>
@@ -37,6 +40,9 @@ Although you can use them, for a more unique website, replace these images with 
   border: 5px outset red;
   background-color: lightblue;
   text-align: center;
+}
+		span.ingredient {
+    color: #f00;
 }
 </style>
 	
@@ -194,6 +200,9 @@ Although you can use them, for a more unique website, replace these images with 
 	<div class="myDiv container">
   <h2>This is a heading with a <span style="color:blue">blue</span>span text</h2>
 
+<p this is a orange <span
+		id=spanunique class="serives" >help</span>		
+		
   <p style="color:red;">This is a red paragraph.</p>
 </div>
 	
