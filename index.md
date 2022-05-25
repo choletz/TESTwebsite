@@ -204,8 +204,7 @@ Although you can use them, for a more unique website, replace these images with 
 	<div class="myDiv container">
   <h2>This is a heading with a <span style="color:blue">blue</span>span text</h2>
 
-<p this is a orange <span
-		id=spanunique class="serives" >help</span> </p>		
+<p> this is a orange <span id=spanunique class="serives"> <a href="https://docs.google.com/document/d/1UKe75rEZ89z8C3MnH8y5iabY6CnV3QJJqe204XoevzU/edit" class="services">help</a></span> </p>		
 		
   <p style="color:red;">This is a red paragraph.</p>
 </div>
